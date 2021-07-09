@@ -1,0 +1,1 @@
+# This project involves analyzing text related to true and fake news stories. The aim is to ultimately find variables or features of the text that may be more or less predictive of fake and true news. 
